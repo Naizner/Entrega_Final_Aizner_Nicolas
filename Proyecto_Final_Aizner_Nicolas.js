@@ -488,7 +488,7 @@ fetch('https://randomuser.me/api/?results=4')
                 </div>
                 <!-- Row -->
             </div>
-            <!-- column  -->
+            <!-- column -->
             </div>
         `    
             console.log(results.results);
